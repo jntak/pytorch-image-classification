@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# pytorch-image-classification
-=======
-# pytorch-image-classification
->>>>>>> 7d91b9f7478a6586361cec53a702ac46a571a3ca
+# Image Classification with PyTorch
+
+This project demonstrates an image classification model built using PyTorch. A CNN model is built where images are
+classified into classes of social security cards, driving licenses, and others.
